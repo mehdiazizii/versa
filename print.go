@@ -1,4 +1,4 @@
-package vers
+package versa
 
 import "fmt"
 
